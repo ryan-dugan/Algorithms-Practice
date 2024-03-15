@@ -1,1 +1,1 @@
-# This folder displays my practice problems for Data Structures and Algorithms in python.
+This folder displays my practice problems for Data Structures and Algorithms in python.
