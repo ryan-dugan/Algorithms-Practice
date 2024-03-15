@@ -1,3 +1,4 @@
-# Algorithms-Practice
+# Programming Practice
 
-This repository is meant to display my data structures and algorithms practice in python. Files will be added upon completion.
+This repository is meant to track my programming practices in a variety of programming languages.
+Files will be added to their respective folders upon completion.
